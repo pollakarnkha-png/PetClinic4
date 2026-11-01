@@ -1,0 +1,85 @@
+[
+    {
+        "receipt_id": "PAY-20261022-EABA9FA55F70",
+        "paid_at": "2026-10-22T14:42:37",
+        "pet_id": "HH00002",
+        "pet_name": "Anging",
+        "owner": "Patima",
+        "staff": "Lily",
+        "status": "ชำระแล้ว",
+        "total": 120.0,
+        "items": [
+            {
+                "description": "Amoxicillin (A001) x 1",
+                "amount": 20.0
+            },
+            {
+                "description": "ค่ารักษา",
+                "amount": 100.0
+            }
+        ]
+    },
+    {
+        "receipt_id": "PAY-20261022-1422B81A19EB",
+        "paid_at": "2026-10-22T14:47:09",
+        "pet_id": "HH00002",
+        "pet_name": "Anging",
+        "owner": "Patima",
+        "staff": "Lily",
+        "status": "ชำระแล้ว",
+        "total": 120.0,
+        "items": [
+            {
+                "description": "Amoxicillin (A001) x 1",
+                "amount": 20.0
+            },
+            {
+                "description": "ค่ารักษา",
+                "amount": 100.0
+            }
+        ]
+    },
+    {
+        "receipt_id": "PAY-20261022-C9CEF495B818",
+        "paid_at": "2026-10-22T22:23:48",
+        "pet_id": "HH00002",
+        "pet_name": "Anging",
+        "owner": "Patima",
+        "staff": "Lily",
+        "status": "ชำระแล้ว",
+        "total": 0,
+        "items": []
+    },
+    {
+        "receipt_id": "PAY-20261031-FFB3A7CD8BF3",
+        "paid_at": "2026-10-31T03:57:51",
+        "pet_id": "DT00005",
+        "pet_name": "Milo",
+        "owner": "Somchai",
+        "staff": "Anging",
+        "status": "ชำระแล้ว",
+        "total": 1250.0,
+        "items": [
+            {
+                "description": "Carprofen (C001) x 5",
+                "amount": 1250.0
+            }
+        ]
+    },
+    {
+        "receipt_id": "PAY-20261031-B0EE49E6FB87",
+        "paid_at": "2026-10-31T04:00:25",
+        "pet_id": "DT00005",
+        "pet_name": "Milo",
+        "owner": "Somchai",
+        "staff": "Anging",
+        "status": "ชำระแล้ว",
+        "total": 1250.0,
+        "items": [
+            {
+                "description": "Carprofen (C001) x 5",
+                "amount": 1250.0
+            }
+        ]
+    }
+]

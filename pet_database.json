@@ -1,0 +1,473 @@
+{
+    "DT00001": {
+        "Name": "Dang",
+        "Species": "Dog",
+        "Breed": "Thai",
+        "Gender": "m",
+        "Age": "2 Year 1 Month",
+        "Blood Type": "-",
+        "Weight": 49.0,
+        "Identity": "Brown-orange fur, Ridgeback",
+        "Allergic React": "-",
+        "Owner": "Anging",
+        "Contact": "0996154471",
+        "Medical History": [
+            {
+                "Medical History": "-",
+                "When": "-"
+            }
+        ],
+        "Treatment History": [
+            {
+                "Date": "2026-10-31",
+                "S": "",
+                "O": {
+                    "Weight (kg)": 49.0,
+                    "Temperature (\u00b0C)": "",
+                    "Heart Rate (bpm)": "",
+                    "Respiratory Rate (breaths/min)": "",
+                    "Other Examination": []
+                },
+                "Assessment": "",
+                "Plan": "",
+                "Doctor": "Anging",
+                "Medicines": [
+                    {
+                        "Code": "A001",
+                        "Name": "Amoxicillin",
+                        "Quantity": 1.0,
+                        "Unit Price": 20.0,
+                        "Total": 20.0
+                    }
+                ],
+                "Medical Equipment": [],
+                "Treatment Fee": 0.0,
+                "Treatment Status": "Completed",
+                "Treatment Start Date": "2026-10-31",
+                "Next Recheck Date": null
+            }
+        ],
+        "Treatment Status": "Completed",
+        "Treatment End Date": "2026-10-31"
+    },
+    "HH00002": {
+        "Name": "Anging",
+        "Species": "Hotdog",
+        "Breed": "HotdogSpicy",
+        "Gender": "N/A",
+        "Age": "99 Year 11 Month",
+        "Blood Type": "AB",
+        "Weight": 90.0,
+        "Identity": "Fat",
+        "Allergic React": "Mango",
+        "Owner": "Patima",
+        "Contact": "01111",
+        "Medical History": [
+            {
+                "Medical History": "-",
+                "When": "-"
+            }
+        ],
+        "Treatment History": [
+            {
+                "Date": "2026-10-22",
+                "S": "\u0e2d\u0e32\u0e40\u0e08\u0e35\u0e22\u0e19\u0e2b\u0e19\u0e31\u0e01",
+                "O": {
+                    "Weight (kg)": 90.0,
+                    "Temperature (\u00b0C)": "38.5",
+                    "Heart Rate (bpm)": "98",
+                    "Respiratory Rate (breaths/min)": "45",
+                    "Other Examination": [
+                        "\u0e04\u0e27\u0e32\u0e21\u0e1e\u0e34\u0e01\u0e32\u0e23 : \u0e44\u0e21\u0e48\u0e21\u0e35"
+                    ]
+                },
+                "Assessment": "\u0e44\u0e02\u0e49\u0e2b\u0e27\u0e31\u0e14\u0e17\u0e31\u0e48\u0e27\u0e44\u0e1b",
+                "Plan": "\u0e01\u0e34\u0e19\u0e15\u0e32\u0e41\u0e25\u0e30\u0e1e\u0e31\u0e01\u0e1c\u0e48\u0e2d\u0e19\u0e01\u0e34\u0e19\u0e2d\u0e32\u0e2b\u0e32\u0e23",
+                "Medicines": [
+                    {
+                        "Code": "A001",
+                        "Name": "Amoxicillin",
+                        "Quantity": 20.0,
+                        "Unit Price": 20.0,
+                        "Total": 400.0
+                    }
+                ],
+                "Medical Equipment": [
+                    {
+                        "Name": "\u0e17\u0e35\u0e48\u0e19\u0e2d\u0e19\u0e19\u0e38\u0e48\u0e21\u0e46",
+                        "Price": 100.0
+                    }
+                ],
+                "Treatment Fee": 250.0,
+                "Treatment Status": "Completed",
+                "Treatment Start Date": "2026-10-22",
+                "Next Recheck Date": null
+            },
+            {
+                "Date": "2026-10-22",
+                "S": "\u0e08\u0e32\u0e21\u0e21\u0e35\u0e19\u0e49\u0e33\u0e21\u0e39\u0e01",
+                "O": {
+                    "Weight (kg)": 90.0,
+                    "Temperature (\u00b0C)": "38.5",
+                    "Heart Rate (bpm)": "98",
+                    "Respiratory Rate (breaths/min)": "50",
+                    "Other Examination": []
+                },
+                "Assessment": "\u0e44\u0e02\u0e49\u0e2b\u0e27\u0e31\u0e14\u0e43\u0e2b\u0e0d\u0e48\u0e2b\u0e21\u0e32",
+                "Plan": "\u0e01\u0e34\u0e19\u0e22\u0e32\u0e15\u0e32\u0e21\u0e2a\u0e31\u0e48\u0e07\u0e41\u0e25\u0e30\u0e01\u0e34\u0e19\u0e2d\u0e32\u0e2b\u0e32\u0e23\u0e40\u0e2a\u0e23\u0e34\u0e21",
+                "Medicines": [
+                    {
+                        "Code": "A001",
+                        "Name": "Amoxicillin",
+                        "Quantity": 20.0,
+                        "Unit Price": 20.0,
+                        "Total": 400.0
+                    }
+                ],
+                "Medical Equipment": [],
+                "Treatment Fee": 10.0,
+                "Treatment Status": "Ongoing",
+                "Treatment Start Date": "2026-10-22",
+                "Next Recheck Date": "2026-10-23"
+            },
+            {
+                "Date": "2026-10-22",
+                "S": "wd",
+                "O": {
+                    "Weight (kg)": 90.0,
+                    "Temperature (\u00b0C)": "dw",
+                    "Heart Rate (bpm)": "wd",
+                    "Respiratory Rate (breaths/min)": "wdw",
+                    "Other Examination": [
+                        "w"
+                    ]
+                },
+                "Assessment": "",
+                "Plan": "",
+                "Doctor": "Peter",
+                "Medicines": [],
+                "Medical Equipment": [],
+                "Treatment Fee": 100.0,
+                "Treatment Status": "Completed",
+                "Treatment Start Date": "2026-10-22",
+                "Next Recheck Date": null
+            },
+            {
+                "Date": "2026-10-22",
+                "S": "56",
+                "O": {
+                    "Weight (kg)": 90.0,
+                    "Temperature (\u00b0C)": "45",
+                    "Heart Rate (bpm)": "456",
+                    "Respiratory Rate (breaths/min)": "456",
+                    "Other Examination": [
+                        "4"
+                    ]
+                },
+                "Assessment": "",
+                "Plan": "",
+                "Doctor": "Peter",
+                "Medicines": [],
+                "Medical Equipment": [],
+                "Treatment Fee": 0.0,
+                "Treatment Status": "Completed",
+                "Treatment Start Date": "2026-10-22",
+                "Next Recheck Date": null
+            },
+            {
+                "Date": "2026-10-22",
+                "S": "1",
+                "O": {
+                    "Weight (kg)": 90.0,
+                    "Temperature (\u00b0C)": "",
+                    "Heart Rate (bpm)": "",
+                    "Respiratory Rate (breaths/min)": "",
+                    "Other Examination": []
+                },
+                "Assessment": "",
+                "Plan": "",
+                "Doctor": "Peter",
+                "Medicines": [],
+                "Medical Equipment": [],
+                "Treatment Fee": 0.0,
+                "Treatment Status": "Completed",
+                "Treatment Start Date": "2026-10-22",
+                "Next Recheck Date": null
+            },
+            {
+                "Date": "2026-10-22",
+                "S": "",
+                "O": {
+                    "Weight (kg)": 90.0,
+                    "Temperature (\u00b0C)": "",
+                    "Heart Rate (bpm)": "",
+                    "Respiratory Rate (breaths/min)": "",
+                    "Other Examination": []
+                },
+                "Assessment": "",
+                "Plan": "",
+                "Doctor": "Peter",
+                "Medicines": [],
+                "Medical Equipment": [],
+                "Treatment Fee": 0.0,
+                "Treatment Status": "Completed",
+                "Treatment Start Date": "2026-10-22",
+                "Next Recheck Date": null
+            },
+            {
+                "Date": "2026-10-22",
+                "S": "",
+                "O": {
+                    "Weight (kg)": 90.0,
+                    "Temperature (\u00b0C)": "",
+                    "Heart Rate (bpm)": "",
+                    "Respiratory Rate (breaths/min)": "",
+                    "Other Examination": []
+                },
+                "Assessment": "",
+                "Plan": "",
+                "Doctor": "Peter",
+                "Medicines": [],
+                "Medical Equipment": [],
+                "Treatment Fee": 0.0,
+                "Treatment Status": "Completed",
+                "Treatment Start Date": "2026-10-22",
+                "Next Recheck Date": null
+            },
+            {
+                "Date": "2026-10-22",
+                "S": "",
+                "O": {
+                    "Weight (kg)": 90.0,
+                    "Temperature (\u00b0C)": "",
+                    "Heart Rate (bpm)": "",
+                    "Respiratory Rate (breaths/min)": "",
+                    "Other Examination": []
+                },
+                "Assessment": "",
+                "Plan": "",
+                "Doctor": "Peter",
+                "Medicines": [],
+                "Medical Equipment": [],
+                "Treatment Fee": 0.0,
+                "Treatment Status": "Completed",
+                "Treatment Start Date": "2026-10-22",
+                "Next Recheck Date": null
+            },
+            {
+                "Date": "2026-10-22",
+                "S": "",
+                "O": {
+                    "Weight (kg)": 90.0,
+                    "Temperature (\u00b0C)": "",
+                    "Heart Rate (bpm)": "",
+                    "Respiratory Rate (breaths/min)": "",
+                    "Other Examination": []
+                },
+                "Assessment": "",
+                "Plan": "",
+                "Doctor": "Peter",
+                "Medicines": [],
+                "Medical Equipment": [],
+                "Treatment Fee": 0.0,
+                "Treatment Status": "Completed",
+                "Treatment Start Date": "2026-10-22",
+                "Next Recheck Date": null
+            },
+            {
+                "Date": "2026-10-22",
+                "S": "ajd\\",
+                "O": {
+                    "Weight (kg)": 90.0,
+                    "Temperature (\u00b0C)": "w",
+                    "Heart Rate (bpm)": "ad",
+                    "Respiratory Rate (breaths/min)": "adw",
+                    "Other Examination": []
+                },
+                "Assessment": "",
+                "Plan": "wa",
+                "Doctor": "Peter",
+                "Medicines": [],
+                "Medical Equipment": [],
+                "Treatment Fee": 0.0,
+                "Treatment Status": "Completed",
+                "Treatment Start Date": "2026-10-22",
+                "Next Recheck Date": null
+            },
+            {
+                "Date": "2026-10-22",
+                "S": "56",
+                "O": {
+                    "Weight (kg)": 90.0,
+                    "Temperature (\u00b0C)": "4584",
+                    "Heart Rate (bpm)": "4",
+                    "Respiratory Rate (breaths/min)": "4",
+                    "Other Examination": [
+                        "4",
+                        "54",
+                        "54",
+                        "54",
+                        "54"
+                    ]
+                },
+                "Assessment": "",
+                "Plan": "44",
+                "Doctor": "Peter",
+                "Medicines": [],
+                "Medical Equipment": [],
+                "Treatment Fee": 0.0,
+                "Treatment Status": "Completed",
+                "Treatment Start Date": "2026-10-22",
+                "Next Recheck Date": null
+            },
+            {
+                "Date": "2026-10-22",
+                "S": "",
+                "O": {
+                    "Weight (kg)": 90.0,
+                    "Temperature (\u00b0C)": "",
+                    "Heart Rate (bpm)": "",
+                    "Respiratory Rate (breaths/min)": "",
+                    "Other Examination": []
+                },
+                "Assessment": "",
+                "Plan": "",
+                "Doctor": "Peter",
+                "Medicines": [],
+                "Medical Equipment": [],
+                "Treatment Fee": 0.0,
+                "Treatment Status": "Ongoing",
+                "Treatment Start Date": "2026-10-22",
+                "Next Recheck Date": "2027-05-10"
+            },
+            {
+                "Date": "2026-10-23",
+                "S": "www",
+                "O": {
+                    "Weight (kg)": 90.0,
+                    "Temperature (\u00b0C)": "www",
+                    "Heart Rate (bpm)": "www",
+                    "Respiratory Rate (breaths/min)": "www",
+                    "Other Examination": [
+                        "www",
+                        "www"
+                    ]
+                },
+                "Assessment": "www",
+                "Plan": "www",
+                "Doctor": "Peter",
+                "Medicines": [],
+                "Medical Equipment": [
+                    {
+                        "Name": "www",
+                        "Price": 100.0
+                    }
+                ],
+                "Treatment Fee": 100.0,
+                "Treatment Status": "Ongoing",
+                "Treatment Start Date": "2026-10-23",
+                "Next Recheck Date": "20"
+            }
+        ],
+        "Treatment Status": "Ongoing",
+        "Treatment End Date": "2026-10-22",
+        "Treatment Start Date": "2026-10-23",
+        "Next Recheck Date": "20"
+    },
+    "CA00003": {
+        "Name": "Milo",
+        "Species": "Cat",
+        "Breed": "Americzn Racdoll",
+        "Gender": "f",
+        "Age": "5 Year 11 Month",
+        "Blood Type": "-",
+        "Weight": 6.4,
+        "Identity": "Long cream fur, Green eyes, Short tail",
+        "Allergic React": "-",
+        "Owner": "Sarah",
+        "Contact": "1669",
+        "Medical History": [
+            {
+                "Medical History": "-",
+                "When": "-"
+            }
+        ]
+    },
+    "DS00004": {
+        "Name": "Dang",
+        "Species": "Dog",
+        "Breed": "Siberian",
+        "Gender": "m",
+        "Age": "4 Year - Month",
+        "Blood Type": "-",
+        "Weight": 57.0,
+        "Identity": "Cream and white siberian, Grey eyes, Happy dog",
+        "Allergic React": "Seafood",
+        "Owner": "Fatman",
+        "Contact": "911",
+        "Medical History": [
+            {
+                "Medical History": "-",
+                "When": "-"
+            }
+        ]
+    },
+    "DT00005": {
+        "Name": "Milo",
+        "Species": "DOg",
+        "Breed": "Thai",
+        "Gender": "m",
+        "Age": "2 Year 1 Month",
+        "Blood Type": "DEA1",
+        "Weight": 12.5,
+        "Identity": "Brown",
+        "Allergic React": "Nonw",
+        "Owner": "Somchai",
+        "Contact": "0123456789",
+        "Medical History": [
+            {
+                "Medical History": "-",
+                "When": "-"
+            }
+        ],
+        "Treatment History": [
+            {
+                "Date": "2026-10-31",
+                "S": "Sneezing",
+                "O": {
+                    "Weight (kg)": 12.5,
+                    "Temperature (\u00b0C)": "38.5",
+                    "Heart Rate (bpm)": "100",
+                    "Respiratory Rate (breaths/min)": "24",
+                    "Other Examination": []
+                },
+                "Assessment": "Mild upper respiratory signs",
+                "Plan": "Monitor and recheck if symptoms worsen",
+                "Doctor": "Anging",
+                "Medicines": [
+                    {
+                        "Code": "A001",
+                        "Name": "Amoxicillin",
+                        "Quantity": 10.0,
+                        "Unit Price": 20.0,
+                        "Total": 200.0
+                    },
+                    {
+                        "Code": "C001",
+                        "Name": "Carprofen",
+                        "Quantity": 5.0,
+                        "Unit Price": 250.0,
+                        "Total": 1250.0
+                    }
+                ],
+                "Medical Equipment": [],
+                "Treatment Fee": 0.0,
+                "Treatment Status": "Completed",
+                "Treatment Start Date": "2026-10-31",
+                "Next Recheck Date": null
+            }
+        ],
+        "Treatment Status": "Completed",
+        "Treatment End Date": "2026-10-31"
+    }
+}

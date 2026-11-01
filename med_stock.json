@@ -1,0 +1,359 @@
+{
+    "A001": {
+        "Name": "Amoxicillin",
+        "Quantity": 10,
+        "Price per unit": 20.0,
+        "Category": "Antimicrobials",
+        "Type": "OTC",
+        "lots": [
+            {
+                "Expiration date": "2026-10-05",
+                "Quantity": 10
+            }
+        ]
+    },
+    "A002": {
+        "Name": "Acepromazine",
+        "Quantity": 35,
+        "Price per unit": 120.0,
+        "Category": "CNS",
+        "Type": "Rx",
+        "lots": [
+            {
+                "Expiration date": "2027-08-15",
+                "Quantity": 15
+            },
+            {
+                "Expiration date": "2028-03-20",
+                "Quantity": 10
+            },
+            {
+                "Expiration date": "2026-12-12",
+                "Quantity": 10
+            }
+        ]
+    },
+    "A003": {
+        "Name": "Albendazole",
+        "Quantity": 30,
+        "Price per unit": 40.0,
+        "Category": "Antiparasitics",
+        "Type": "OTC",
+        "lots": [
+            {
+                "Expiration date": "2027-11-01",
+                "Quantity": 30
+            }
+        ]
+    },
+    "B001": {
+        "Name": "Bigboi",
+        "Quantity": 10,
+        "Price per unit": 20.0,
+        "Category": "General",
+        "Type": "OTC",
+        "lots": [
+            {
+                "Expiration date": "2026-12-30",
+                "Quantity": 10
+            }
+        ]
+    },
+    "B002": {
+        "Name": "Bravecto (Fluralaner)",
+        "Quantity": 20,
+        "Price per unit": 850.0,
+        "Category": "Antiparasitics",
+        "Type": "OTC",
+        "lots": [
+            {
+                "Expiration date": "2027-09-10",
+                "Quantity": 8
+            },
+            {
+                "Expiration date": "2028-05-15",
+                "Quantity": 12
+            }
+        ]
+    },
+    "C001": {
+        "Name": "Carprofen",
+        "Quantity": 5,
+        "Price per unit": 250.0,
+        "Category": "NSAIDs",
+        "Type": "Rx",
+        "lots": [
+            {
+                "Expiration date": "N/A",
+                "Quantity": 5
+            }
+        ]
+    },
+    "C002": {
+        "Name": "Cephalexin",
+        "Quantity": 40,
+        "Price per unit": 35.0,
+        "Category": "Antimicrobials",
+        "Type": "Rx",
+        "lots": [
+            {
+                "Expiration date": "2027-03-30",
+                "Quantity": 20
+            },
+            {
+                "Expiration date": "2027-10-15",
+                "Quantity": 20
+            }
+        ]
+    },
+    "D001": {
+        "Name": "Doxycycline",
+        "Quantity": 20,
+        "Price per unit": 300.0,
+        "Category": "Specific Drugs",
+        "Type": "Rx",
+        "lots": [
+            {
+                "Expiration date": "2027-12-30",
+                "Quantity": 20
+            }
+        ]
+    },
+    "D002": {
+        "Name": "Dental Stick Chew Treats",
+        "Quantity": 25,
+        "Price per unit": 150.0,
+        "Category": "General",
+        "Type": "OTC",
+        "lots": [
+            {
+                "Expiration date": "2027-05-01",
+                "Quantity": 25
+            }
+        ]
+    },
+    "E001": {
+        "Name": "Enrofloxacin",
+        "Quantity": 25,
+        "Price per unit": 180.0,
+        "Category": "Antimicrobials",
+        "Type": "Rx",
+        "lots": [
+            {
+                "Expiration date": "2027-02-14",
+                "Quantity": 10
+            },
+            {
+                "Expiration date": "2027-12-01",
+                "Quantity": 15
+            }
+        ]
+    },
+    "E002": {
+        "Name": "Enalapril",
+        "Quantity": 30,
+        "Price per unit": 90.0,
+        "Category": "Specific Drugs",
+        "Type": "Rx",
+        "lots": [
+            {
+                "Expiration date": "2028-01-10",
+                "Quantity": 30
+            }
+        ]
+    },
+    "F001": {
+        "Name": "Fenbendazole",
+        "Quantity": 50,
+        "Price per unit": 60.0,
+        "Category": "Antiparasitics",
+        "Type": "OTC",
+        "lots": [
+            {
+                "Expiration date": "2027-07-20",
+                "Quantity": 50
+            }
+        ]
+    },
+    "F002": {
+        "Name": "Furosemide",
+        "Quantity": 20,
+        "Price per unit": 45.0,
+        "Category": "Specific Drugs",
+        "Type": "Rx",
+        "lots": [
+            {
+                "Expiration date": "2027-11-11",
+                "Quantity": 20
+            }
+        ]
+    },
+    "G001": {
+        "Name": "Gabapentin",
+        "Quantity": 30,
+        "Price per unit": 150.0,
+        "Category": "CNS",
+        "Type": "Rx",
+        "lots": [
+            {
+                "Expiration date": "2027-04-01",
+                "Quantity": 15
+            },
+            {
+                "Expiration date": "2027-09-30",
+                "Quantity": 15
+            }
+        ]
+    },
+    "I001": {
+        "Name": "Ivermectin Injection",
+        "Quantity": 40,
+        "Price per unit": 80.0,
+        "Category": "Antiparasitics",
+        "Type": "Rx",
+        "lots": [
+            {
+                "Expiration date": "2027-08-08",
+                "Quantity": 40
+            }
+        ]
+    },
+    "M001": {
+        "Name": "Meloxicam Oral Suspension",
+        "Quantity": 20,
+        "Price per unit": 220.0,
+        "Category": "NSAIDs",
+        "Type": "Rx",
+        "lots": [
+            {
+                "Expiration date": "2027-01-15",
+                "Quantity": 10
+            },
+            {
+                "Expiration date": "2027-08-20",
+                "Quantity": 10
+            }
+        ]
+    },
+    "M002": {
+        "Name": "Metronidazole",
+        "Quantity": 30,
+        "Price per unit": 50.0,
+        "Category": "Antimicrobials",
+        "Type": "Rx",
+        "lots": [
+            {
+                "Expiration date": "2027-06-01",
+                "Quantity": 30
+            }
+        ]
+    },
+    "N001": {
+        "Name": "NexGard Spectrum",
+        "Quantity": 15,
+        "Price per unit": 420.0,
+        "Category": "Antiparasitics",
+        "Type": "OTC",
+        "lots": [
+            {
+                "Expiration date": "2027-12-15",
+                "Quantity": 15
+            }
+        ]
+    },
+    "N002": {
+        "Name": "Nutri-Plus Gel",
+        "Quantity": 20,
+        "Price per unit": 280.0,
+        "Category": "General",
+        "Type": "OTC",
+        "lots": [
+            {
+                "Expiration date": "2028-02-28",
+                "Quantity": 20
+            }
+        ]
+    },
+    "P001": {
+        "Name": "Phenobarbital",
+        "Quantity": 10,
+        "Price per unit": 350.0,
+        "Category": "CNS",
+        "Type": "Rx",
+        "lots": [
+            {
+                "Expiration date": "2027-05-10",
+                "Quantity": 10
+            }
+        ]
+    },
+    "P002": {
+        "Name": "Pimobendan",
+        "Quantity": 30,
+        "Price per unit": 650.0,
+        "Category": "Specific Drugs",
+        "Type": "Rx",
+        "lots": [
+            {
+                "Expiration date": "2027-10-30",
+                "Quantity": 12
+            },
+            {
+                "Expiration date": "2028-04-12",
+                "Quantity": 18
+            }
+        ]
+    },
+    "R001": {
+        "Name": "Robenacoxib",
+        "Quantity": 14,
+        "Price per unit": 380.0,
+        "Category": "NSAIDs",
+        "Type": "Rx",
+        "lots": [
+            {
+                "Expiration date": "2027-07-01",
+                "Quantity": 14
+            }
+        ]
+    },
+    "S001": {
+        "Name": "Selamectin Spot-On",
+        "Quantity": 25,
+        "Price per unit": 350.0,
+        "Category": "Antiparasitics",
+        "Type": "OTC",
+        "lots": [
+            {
+                "Expiration date": "2027-11-25",
+                "Quantity": 25
+            }
+        ]
+    },
+    "T001": {
+        "Name": "TESTMED",
+        "Quantity": 20,
+        "Price per unit": 250.0,
+        "Category": "Antiparasitics",
+        "Type": "Rx",
+        "lots": [
+            {
+                "Expiration date": "2026-12-12",
+                "Quantity": 20
+            }
+        ]
+    },
+    "T002": {
+        "Name": "TESTMED",
+        "Quantity": 20,
+        "Price per unit": 100.0,
+        "Category": "Antimicrobials",
+        "Type": "Rx",
+        "lots": [
+            {
+                "Expiration date": "2027-01-01",
+                "Quantity": 20
+            }
+        ]
+    }
+}
